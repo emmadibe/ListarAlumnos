@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListadoAlumnos.Views.Templates.ItemAlumnos"
+             xmlns:mo="clr-namespace:ListadoAlumnos.Models"
+             >
+
+    <HorizontalStackLayout Padding="2" BackgroundColor="Beige" x:DataType="mo:AlumnosModels">
+        <Label Text="{Binding nombre}"/>
+        <Label Text="{Binding apellido}"/>
+    </HorizontalStackLayout>
+
+</ContentView>
+

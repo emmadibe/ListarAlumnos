@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListadoAlumnos.Views.ListadoAlumnos"
+             xmlns:vm="clr-namespace:ListadoAlumnos.ViewMolders"
+             xmlns:mo="clr-namespace:ListadoAlumnos.Models"
+             xmlns:te="clr-namespace:ListadoAlumnos.Views.Templates"
+             Title="ListadoAlumnos">
+    <VerticalStackLayout x:DataType="vm:AlumnosViewModels">
+        <Button Text="Listar alumnos" Command="{Binding ListarAlumnosCommand}"/>
+        <CollectionView ItemsSource="{Binding Alumnos}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="mo:AlumnosModels">
+                    <te:ItemAlumnos/>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>
