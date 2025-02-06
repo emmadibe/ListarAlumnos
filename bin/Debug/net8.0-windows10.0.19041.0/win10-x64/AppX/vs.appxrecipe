@@ -30,13 +30,13 @@
     <AppXManifest Include="A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-02-06T18:39:03.447</Modified>
+      <Modified>2025-02-06T19:21:16.500</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-02-06T05:49:47.074</Modified>
+      <Modified>2025-02-06T19:11:27.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ListadoAlumnos.runtimeconfig.json">
       <PackagePath>ListadoAlumnos.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ListadoAlumnos.dll">
       <PackagePath>ListadoAlumnos.dll</PackagePath>
-      <Modified>2025-02-06T18:39:02.080</Modified>
+      <Modified>2025-02-06T19:21:15.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ListadoAlumnos.exe</PackagePath>
-      <Modified>2025-02-06T18:39:02.249</Modified>
+      <Modified>2025-02-06T19:21:16.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ListadoAlumnos.deps.json">
       <PackagePath>ListadoAlumnos.deps.json</PackagePath>
-      <Modified>2025-02-06T05:49:46.464</Modified>
+      <Modified>2025-02-06T19:11:26.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -180,3 +180,4 @@ A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\obj\Debug\net8.0-window
 A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
 A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
 A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:\Dev\Proyectos\Aprender a usar .NETMAUI\ListadoAlumnos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ListadoAlumnos.sourcelink.json

@@ -24,8 +24,10 @@ namespace ListadoAlumnos
               
             //ViewModels:
             services.AddTransient<AlumnosViewModels>();
+            services.AddTransient<AlumnoViewModels>();
             //Views:
             services.AddSingleton<AlumnosNameSpace>();
+            services.AddSingleton<Alumnos>();
 
             return services.BuildServiceProvider();
         }

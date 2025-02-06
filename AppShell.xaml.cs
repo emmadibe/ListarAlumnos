@@ -9,7 +9,7 @@ namespace ListadoAlumnos
             InitializeComponent();
 
             Routing.RegisterRoute(nameof(ListadoAlumnos), typeof(AlumnosNamespace));  //así me funcionó.
-
+            Routing.RegisterRoute(nameof(Alumnos), typeof(Alumnos));
         }
 
 

@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\views\\alumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:views\\alumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\viewmolders\\alumnoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:viewmolders\\alumnoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\views\\alumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:views\\alumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\views\\listadoalumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:views\\listadoalumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\viewmolders\\alumnosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:viewmolders\\alumnosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\views\\listadoalumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:views\\listadoalumnos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\views\\listadoalumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:views\\listadoalumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\views\\templates\\itemalumnos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -37,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\models\\alumnosmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:models\\alumnosmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\viewmolders\\alumnosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:viewmolders\\alumnosviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88D4B2A7-0A43-49A7-B518-01837A7B9442}|ListadoAlumnos.csproj|a:\\dev\\proyectos\\aprender a usar .netmaui\\listadoalumnos\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,24 +86,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Alumnos.xaml",
+              "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\Alumnos.xaml",
+              "RelativeDocumentMoniker": "Views\\Alumnos.xaml",
+              "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\Alumnos.xaml",
+              "RelativeToolTip": "Views\\Alumnos.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T19:00:55.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeToolTip": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAqwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T05:52:21.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ItemAlumnos.xaml",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\Templates\\ItemAlumnos.xaml",
               "RelativeDocumentMoniker": "Views\\Templates\\ItemAlumnos.xaml",
@@ -103,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ListadoAlumnos.xaml.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\ListadoAlumnos.xaml.cs",
               "RelativeDocumentMoniker": "Views\\ListadoAlumnos.xaml.cs",
@@ -111,38 +136,50 @@
               "RelativeToolTip": "Views\\ListadoAlumnos.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T03:49:29.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T03:49:29.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ListadoAlumnos.xaml",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\ListadoAlumnos.xaml",
               "RelativeDocumentMoniker": "Views\\ListadoAlumnos.xaml",
               "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\ListadoAlumnos.xaml",
               "RelativeToolTip": "Views\\ListadoAlumnos.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-06T03:49:27.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T03:14:15.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T22:32:28.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AlumnosViewModels.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\ViewMolders\\AlumnosViewModels.cs",
               "RelativeDocumentMoniker": "ViewMolders\\AlumnosViewModels.cs",
@@ -150,7 +187,8 @@
               "RelativeToolTip": "ViewMolders\\AlumnosViewModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T03:02:15.948Z"
+              "WhenOpened": "2025-02-06T03:02:15.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -160,14 +198,40 @@
               "RelativeDocumentMoniker": "AppShell.xaml.cs",
               "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\AppShell.xaml.cs",
               "RelativeToolTip": "AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T02:39:19.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "AlumnoViewModels.cs",
+              "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\ViewMolders\\AlumnoViewModels.cs",
+              "RelativeDocumentMoniker": "ViewMolders\\AlumnoViewModels.cs",
+              "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\ViewMolders\\AlumnoViewModels.cs",
+              "RelativeToolTip": "ViewMolders\\AlumnoViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:02:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumnos.xaml.cs",
+              "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\Alumnos.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Alumnos.xaml.cs",
+              "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\Alumnos.xaml.cs",
+              "RelativeToolTip": "Views\\Alumnos.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:02:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "GlobalUsing.cs",
@@ -179,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -187,12 +251,11 @@
               "RelativeToolTip": "MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T22:26:41.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T22:26:41.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ItemAlumnos.xaml.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Views\\Templates\\ItemAlumnos.xaml.cs",
               "RelativeDocumentMoniker": "Views\\Templates\\ItemAlumnos.xaml.cs",
@@ -204,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AlumnosModels.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Models\\AlumnosModels.cs",
               "RelativeDocumentMoniker": "Models\\AlumnosModels.cs",
@@ -216,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Functions.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Services\\Functions.cs",
               "RelativeDocumentMoniker": "Services\\Functions.cs",
@@ -228,19 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T22:32:28.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -252,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IFunctions.cs",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\Interfaces\\IFunctions.cs",
               "RelativeDocumentMoniker": "Interfaces\\IFunctions.cs",
@@ -264,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ListadoAlumnos.csproj",
               "DocumentMoniker": "A:\\Dev\\Proyectos\\Aprender a usar .NETMAUI\\ListadoAlumnos\\ListadoAlumnos.csproj",
               "RelativeDocumentMoniker": "ListadoAlumnos.csproj",
